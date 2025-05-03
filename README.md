@@ -7,18 +7,12 @@ To see the recreated website:
 Clone the repository
 Open your terminal or Git Bash and run:
 
-bash
-Copy
-Edit
 git clone <repository-link>
+
 Open the folder in Visual Studio Code
+
 Navigate to the project folder and open it with VS Code:
 
-bash
-Copy
-Edit
-cd <folder-name>
-code .
 Launch with Live Server
 
 Make sure you have the Live Server extension installed in VS Code.
